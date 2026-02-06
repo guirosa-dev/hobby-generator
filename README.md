@@ -1,11 +1,8 @@
 # Hobby Generator
 
+### Sobre
 Este projeto é um gerador de hobbies desenvolvido com HTML, CSS e JavaScript, criado para ajudar pessoas a descobrirem novas atividades para praticar no dia a dia.
 A ideia é combater o tédio e o excesso de consumo de dopamina rápida, incentivando hobbies mais saudáveis e produtivos.
-
-### Sobre
-O Hobby Generator permite que o usuário gere hobbies aleatórios com apenas um clique, salvando aqueles que mais chamarem atenção em uma lista lateral.
-Os hobbies podem ser removidos individualmente, e a interface foi pensada para ser simples, limpa e inspirada no visual do Bootstrap.
 
 ### Tecnologias Utilizadas
 <p>
@@ -15,11 +12,12 @@ Os hobbies podem ser removidos individualmente, e a interface foi pensada para s
 </p>
 
 ### Como Executar
-1. 
+1. Acesse o link ao lado -->
+(https://guirosa-dev.github.io/hobby-generator) 
 ---
 ### Observações
 Projeto desenvolvido para fins de estudo/prática.  
-Pode ser expandido ou refatorado futuramente.
+Não tenho pretenção de expandir ele futuramente.
 
 ---
 
