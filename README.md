@@ -16,8 +16,7 @@ A ideia é combater o tédio e o excesso de consumo de dopamina rápida, incenti
 (https://guirosa-dev.github.io/hobby-generator) 
 ---
 ### Observações
-Projeto desenvolvido para fins de estudo/prática.  
-Não tenho pretenção de expandir ele futuramente.
+Projeto desenvolvido com foco em prática de manipulação do DOM e organização de código.
 
 ---
 
